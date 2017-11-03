@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/nginx-ingress-controller:0.9.0-beta.15
+FROM gcr.io/google_containers/kubernetes-dashboard-amd64:v1.7.1
