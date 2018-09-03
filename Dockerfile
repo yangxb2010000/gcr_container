@@ -1,1 +1,1 @@
-FROM gcr.io/kubernetes-helm/tiller:v2.8.0
+FROM docker.elastic.co/beats/filebeat:5.6.11
